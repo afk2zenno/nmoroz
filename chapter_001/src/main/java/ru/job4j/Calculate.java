@@ -1,4 +1,4 @@
-﻿package ru.job4j;
+package ru.job4j;
 
 /**
 * Class Calculate для вывода словосочетания "Hello World".
